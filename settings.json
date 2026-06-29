@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "AFKBOT",
     "password": "",
-    "type": "offline"
+    "type": "olline"
   },
   "server": {
     "ip": "NuclearMC.aternos.me",
